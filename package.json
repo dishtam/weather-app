@@ -1,0 +1,14 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "This project will be used to learn the use of API of openweathermap.org using its API key.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Roy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
